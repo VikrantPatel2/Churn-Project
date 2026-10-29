@@ -1,0 +1,11 @@
+Churn_Probability,Predicted_Churn,Risk_Segment,Suggested_Action
+0.6866415407522524,1,Medium,Review customer experience
+0.05207743381626968,0,Low,Continue regular engagement
+0.295786555230049,0,Low,Continue regular engagement
+0.047178945354822796,0,Low,Continue regular engagement
+0.6824631987817278,1,Medium,Review customer experience
+0.8513148652097504,1,High,Prioritize retention review
+0.42711735986004296,0,Medium,Review customer experience
+0.19137236793661663,0,Low,Continue regular engagement
+0.585500110019577,1,Medium,Review customer experience
+0.04042529750792468,0,Low,Continue regular engagement

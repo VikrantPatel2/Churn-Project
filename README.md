@@ -323,5 +323,5 @@ values have not been supplied in this README.
 
 ## Author
 Vikrant Patel
-**Project:** Customer Intelligence & Churn Prediction System
+
 

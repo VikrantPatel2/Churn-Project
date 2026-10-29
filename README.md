@@ -322,8 +322,6 @@ values have not been supplied in this README.
     after testing.
 
 ## Author
-
+Vikrant Patel
 **Project:** Customer Intelligence & Churn Prediction System
 
-Add your name, portfolio, GitHub repository link, and contact details
-here before publishing the project.
